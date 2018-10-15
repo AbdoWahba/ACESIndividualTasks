@@ -1,7 +1,7 @@
 from random import randint
 
 ran_list = [randint(0, 1000), randint(0, 1000), randint(0, 1000)]
-print(ran_list)
+
 my_list = []
 cont = 'y'
 
@@ -11,7 +11,7 @@ while cont == 'y' or cont == 'Y':
         x = int(x)
         my_list.append(x)
 
-    print(my_list)
+   
 
     y = '0'
     for items in range(0, 3):
