@@ -1,7 +1,9 @@
 # ACES Individual Tasks
 ## Taskes submitted to 
-### Eng. Hussien Adel (IT head in ACES'19)
-### Eng. Hesham Samir (IT vice head in ACES'19)
+### Eng. Hussien Adel 
+      (IT head in ACES'19)
+### Eng. Hesham Samir 
+     (IT vice head in ACES'19)
 
 
 # About ACES
